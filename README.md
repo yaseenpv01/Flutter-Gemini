@@ -1,16 +1,20 @@
-# flutter_gemini_test
+# Flutter Gemini API Sample App
 
-A new Flutter project.
+This is a sample Flutter application that integrates with Google's Gemini API. The app can generate text responses based on prompts,  and also includes functionality to send images along with prompts for processing.
 
-## Getting Started
+## Features
+ - Text Response: Send a text prompt and receive a response.
+ - Image Processing: Send an image along with a prompt and receive a processed response.
 
-This project is a starting point for a Flutter application.
+## Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+Before running the app, make sure you have the following:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK installed on your machine
+- An Android or iOS device/emulator
+- A Google Cloud project with access to the Gemini API
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screen record
+
+https://github.com/user-attachments/assets/5548e9c5-ece9-4424-bbe0-0848d0357f2f
+
